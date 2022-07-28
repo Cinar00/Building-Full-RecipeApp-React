@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-demo: https://cinar00-react-recipe-app-using-api.netlify.app
+`demo: https://cinar00-react-recipe-app-using-api.netlify.app`
 
-api: https://spoonacular.com/food-api
+`api: https://spoonacular.com/food-api`
 
 
 
