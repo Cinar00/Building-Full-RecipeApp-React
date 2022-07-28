@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+demo: https://cinar00-react-recipe-app-using-api.netlify.app
+
+api: https://spoonacular.com/food-api
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
